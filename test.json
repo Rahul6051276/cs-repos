@@ -1,6 +1,6 @@
 {
   "name": "Testing repository",
-  "description": "My Providers List",
+  "description": "Custom Providers List",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
@@ -15,6 +15,7 @@
     "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
     "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/master/repo.json",
     "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json",
+    "https://raw.githubusercontent.com/Abodabodd/re-karabi/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/d0G1er/doG1ersHadEnough/refs/heads/main/repo.json",
     "https://gitlab.com/tearra/cloudstream-vietnamese/-/raw/main/repo.json",
     "https://raw.githubusercontent.com/ycngmn/CuaPlug/refs/heads/main/repo.json",

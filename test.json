@@ -3,6 +3,31 @@
   "description": "Lorem ipsum",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/plugins.json"
+    "https://raw.githubusercontent.com/recloudstream/TestPlugins/builds/plugins.json",
+    "https://raw.githubusercontent.com/recloudstream/extensions/master/repo.json",
+    "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json",
+    "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json",
+    "https://raw.githubusercontent.com/NivinCMC/CNCVers-Cloud-Stream-Extension/refs/heads/builds/CNC.json",
+    "https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json",
+    "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json",
+    "https://raw.githubusercontent.com/TechTanic/SkillShare-Repo/builds/repo.json",
+    "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json",
+    "https://git.disroot.org/rayza/PStream/raw/branch/main/repo.json",
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/master/repo.json",
+    "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json",
+    "https://raw.githubusercontent.com/Abodabodd/re-karabi/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/d0G1er/doG1ersHadEnough/refs/heads/main/repo.json",
+    "https://gitlab.com/tearra/cloudstream-vietnamese/-/raw/main/repo.json",
+    "https://raw.githubusercontent.com/ycngmn/CuaPlug/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/Rnyro/GermanProviders/refs/heads/master/repo.json",
+    "https://raw.githubusercontent.com/sarapcanogll/Pitipitii/master/repo.json",
+    "https://raw.githubusercontent.com/TeNuma25/IndoStream/builds/repo.json",
+    "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/refs/heads/main/builds/repo.json",
+    "https://raw.githubusercontent.com/Ktraptor123/cs-kraptor/refs/heads/master/repo.json",
+    "https://raw.githubusercontent.com/Ktraptor123/cs-karna/refs/heads/master/repo.json",
+    "https://raw.githubusercontent.com/redblacker8/storm-ext/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/rockhero1234/cinephile/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/ned1245/cartoonrepo/builds/repo.json"
   ]
 }

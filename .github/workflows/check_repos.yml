@@ -1,17 +1,18 @@
-Name: Check repos
-
+name: Check repos
 on:
   push:
-  pull_request:
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: |
-          python3 -m pip install -r requirements.txt
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Install httpx
+        run: pip install httpx
       - name: Run checks
-        run: |
-          python3 ci_check.py
+        run: python3 ci_check.py
